@@ -1,4 +1,4 @@
-#Hello World (s) dot com with HTML
+#Hello World HTML
 
 Lets have a look first at the boring but usefull Wikipedia definition of HTML :
 
@@ -8,7 +8,7 @@ Source: https://en.wikipedia.org/wiki/HTML
 
 Lets try to summarize it from a pragmatic noob coder point of view. Wanna learn programming ? **HTML is the language you must start with!** Not only because it is the "cornerstone technology" for web development but because you need nothing else than a text editor and a web browser to run HTML scripts. You can do that on Windows, Linux, Mac, Android **without installing anything on your computer**. Last but not least, you even do not need an internet connexion! Fabulous, Amazing, Crazy :p !
 
-##Hello World (s) dot com in 5 Steps:
+##Hello World HTML in 5 Steps:
 
 1. Open a text editor
 2. Past the following piece of code:
@@ -19,10 +19,10 @@ Lets try to summarize it from a pragmatic noob coder point of view. Wanna learn 
 	<html>
 		<head>
 			<meta charset="utf-8"/>
-			<title>Hello World (s) dot com in HTML</title>
+			<title>Hello World HTML</title>
 		</head>
 		<body>
-			<p>Hello World(s) dot com in HTML</p>
+			<p>Hello World HTML</p>
 		</body>
 	</html>
 ```
@@ -34,7 +34,7 @@ Lets try to summarize it from a pragmatic noob coder point of view. Wanna learn 
 
 I told you it was simple to write down some HTML code. But now you realize that you needed 11 lines of code to write down a Hello World! #AreYouKiddingMe ? Well, you could have written down a much simpler piece of code and your web browser would have understood it. You can test this by replacing the 11 lines by only one:
 
-```HelloWorld (s) dot com```
+```Hello World HTML```
 
 You should get quite a similar result... so Why all these lines ?
 As every programming languages there is a grammar to respect.
