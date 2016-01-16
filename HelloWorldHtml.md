@@ -1,4 +1,4 @@
-#Hello World with Html
+#Hello World with HTML
 
 Lets have a look first at the boring but usefull Wikipedia definition of HTML :
 
@@ -14,7 +14,7 @@ Lets try to summarize it from a pragmatic new coder point of view. You want to l
 1. Open a text editor
 2. Past the following piece of code:
 
-	<!DOCTYPE html>
+```<!DOCTYPE html>
 	<html>
 		<head>
 			<meta charset="utf-8"/>
@@ -24,7 +24,7 @@ Lets try to summarize it from a pragmatic new coder point of view. You want to l
 		<body>
 			<h1>Hello World(s)</h1>
 		</body>
-	</html>
+	</html>```
 
 3. Save your file as HelloWorld.html
 4. Double clic on this file
