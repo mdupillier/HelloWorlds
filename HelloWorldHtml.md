@@ -30,11 +30,11 @@ Lets try to summarize it from a pragmatic new coder point of view. You want to l
 4. Double clic on this file
 5. Enjoy ;)
 
-Explaining the code:
+##Explaining the code:
 
-Technical Background:
+##Technical Background:
 
-Going further with Html:
+##Going further with Html:
 
 1. Wikipedia : https://fr.wikipedia.org/wiki/Hypertext_Markup_Language
 2. HTML Validator : https://validator.w3.org/
