@@ -22,7 +22,7 @@ Lets try to summarize it from a pragmatic noob coder point of view. Wanna learn 
 			<title>Hello World (s) dot com in HTML</title>
 		</head>
 		<body>
-			<p>Hello World(s)dot com in HTML</p>
+			<p>Hello World(s) dot com in HTML</p>
 		</body>
 	</html>
 ```
@@ -34,7 +34,7 @@ Lets try to summarize it from a pragmatic noob coder point of view. Wanna learn 
 
 I told you it was simple to write down some HTML code. But now you realize that you needed 11 lines of code to write down a Hello World! #AreYouKiddingMe ? Well, you could have written down a much simpler piece of code and your web browser would have understood it. You can test this by replacing the 11 lines by only one:
 
-```html HelloWorld (s) dot com```
+```HelloWorld (s) dot com```
 
 You should get quite a similar result... so Why all these lines ?
 As every programming languages there is a grammar to respect.
