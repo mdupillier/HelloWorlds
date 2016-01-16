@@ -6,7 +6,7 @@ Lets have a look first at the boring but usefull Wikipedia definition of HTML :
 
 Source: https://en.wikipedia.org/wiki/HTML
 
-Lets try to summarize it from a pragmatic noob coder point of view. Wanna learn programming ? HTML is the language you must start with! Not only because it is the "cornerstone technology" for web development but because you need nothing else than a text editor and a web browser to run HTML scripts. You can do that on Windows, Linux, Mac, Android without installing anything on your computer. Last but not least, you even do not need an internet connexion! Fabulous, Amazing, Crazy :p !
+Lets try to summarize it from a pragmatic noob coder point of view. Wanna learn programming ? _HTML is the language you must start with!_ Not only because it is the "cornerstone technology" for web development but because you need nothing else than a text editor and a web browser to run HTML scripts. You can do that on Windows, Linux, Mac, Android _without installing anything on your computer_. Last but not least, you even do not need an internet connexion! Fabulous, Amazing, Crazy :p !
 
 ##Hello World (s) dot com in 5 Steps:
 
