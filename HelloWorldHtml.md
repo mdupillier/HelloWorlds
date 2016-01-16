@@ -13,18 +13,19 @@ Lets try to summarize it from a pragmatic new coder point of view. You want to l
 
 1. Open a text editor
 2. Past the following piece of code:
-
+```html
 	<!DOCTYPE html>
+	<!--Hello World (s) dot com in HTML-->
 	<html>
-	<head>
-	<meta charset="utf-8"/>
-	<title>Page Title</title>
-	</head>
-	<body>
-	<h1>Hello World(s)</h1>
-	</body>
+		<head>
+			<meta charset="utf-8"/>
+			<title>Hello World (s) dot com in HTML</title>
+		</head>
+		<body>
+			<h1>Hello World(s)dot com in HTML</h1>
+		</body>
 	</html>
-
+```
 3. Save your file as HelloWorld.html
 4. Double clic on this file
 5. Enjoy ;)
