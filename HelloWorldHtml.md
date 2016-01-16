@@ -32,20 +32,23 @@ Lets try to summarize it from a pragmatic noob coder point of view. Wanna learn 
 
 ##Explaining the HelloWorldHTML.html code:
 
-I told you it was simple to write down some HTML code. But now you realize that you needed 11 lines of code to write down a Hello World! #AreYouKiddingMe ? Well, you could have written down a much simpler piece of code and your web browser would have understood it. You can test this by replacing the 11 lines by only one:
+I told you it was simple to write down some HTML code. But now you realize that you needed 11 lines of code to write down a Hello World HTML on the screen! #AreYouKiddingMe ? Well, you could have written down a much simpler piece of code and your web browser would have understood it. You can test this by replacing the 11 lines by only one:
 
 ```Hello World HTML```
 
 You should get quite a similar result... so Why all these lines ?
 As every programming languages there is a grammar to respect.
-HTML works with Open & Close tags.
+HTML language works with Opening & Closing tags.
 
-All the content you want to display in your web-page should be included between the <body> and the </body> tag.
-The declarations such as the title of your web-page, the key words should be included between the <head> and the </head> tag.
-Finally you should enclose your <head>...</head> and <body>...</body> between the <html> and </html> tags.
+The tags are the small pieces of codes surrounded with <...> or </...>
+* The Opening tag format is <...>
+* The Closing tag format is </...>
 
-##Going further with HTML:
+From a grammar perspective, all the content you want to display in your web-page should be included between the <body> and the </body> tag. The declarations such as the title of your web-page, the key words should be included between the <head> and the </head> tag. Finally you should enclose your <head>...</head> and <body>...</body> between the <html> and </html> tags.
 
-1. A bit of History: https://fr.wikipedia.org/wiki/Hypertext_Markup_Language
-2. The best website to learn HTML from Scratch : http://www.w3schools.com/html/default.asp
+##Going (much) further with HTML:
+
+
+1. Probably the best website to learn HTML from Scratch : http://www.w3schools.com/html/default.asp
+2. A bit of History: https://fr.wikipedia.org/wiki/Hypertext_Markup_Language
 3. Want to check if your HTML file is well formated, follow the link : https://validator.w3.org/
