@@ -1,5 +1,5 @@
 #Hello World (s) dot com
-_hello World (s) explained for dummmies in any programming language_
+_Classic Hello World (s) explained for dummmies in any programming language_
 
 #Browse the Hello World (s):
 * Hello World HTML
