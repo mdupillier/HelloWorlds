@@ -1,5 +1,3 @@
-Keywords: Hello World C,
-
 #Hello World C
 
 Lets have a look at the Wikipedia definition of C:
